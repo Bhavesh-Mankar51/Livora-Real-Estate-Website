@@ -1,0 +1,31 @@
+@import "rsuite/dist/rsuite.css";
+
+
+
+.accordion{
+  width: 600px;
+}
+
+.icon-style{
+  padding: 10px;
+  background: #EEEEFF;
+  border-radius: 5px;
+  color: #4066FF;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.header-title{
+  color: #1f3e72;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+svg.rs-panel-btn-icon.rs-icon.rs-icon{
+  background: #EEEEFF;
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+  color: #4066FF;
+}
+
+
