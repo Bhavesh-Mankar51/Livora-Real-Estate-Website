@@ -19,37 +19,21 @@ cd <project_name>
 ```
 
 ### 2. Install Dependencies
-If using npm:
 ```sh
 npm install
 ```
 
-If using Yarn:
-```sh
-yarn install
-```
-
 ### 3. Start the Development Server
-If using npm:
 ```sh
-npm start
+npm run dev
 ```
 
-If using Yarn:
-```sh
-yarn start
-```
-
-The application should now be running at `http://localhost:3000/` by default.
+The application should now be running at `http://localhost:3000/` (or another available port).
 
 ## Building for Production
 To create an optimized production build, run:
 ```sh
 npm run build
-```
-or
-```sh
-yarn build
 ```
 This generates a `build/` directory with optimized static files.
 
@@ -95,6 +79,10 @@ process.env.REACT_APP_API_URL;
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a Pull Request
 
+## License
+This project is licensed under the [MIT License](LICENSE).
 
-Happy Coding! 🚀
+---
+
+## Happy Coding! 🚀
 
