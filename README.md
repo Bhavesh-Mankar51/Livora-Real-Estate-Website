@@ -1,4 +1,4 @@
-# React Website Setup Guide
+# React Website Setup Guide ⚡️
 
 This guide will help you set up and run a React website locally.
 
@@ -95,10 +95,6 @@ process.env.REACT_APP_API_URL;
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a Pull Request
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Happy Coding! 🚀
 
